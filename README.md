@@ -58,7 +58,7 @@ Utilize modern tools such as webpack for streamlined asset management and `idb` 
 
 ## Live Version
 
-Explore the live version: [PWA Content Hub](https://content-hub-mmw18-1a3f7b5bdedd.herokuapp.com)
+Explore the live version: [PWA Content Hub](https://content-h)
 
 ## Recognition
 
